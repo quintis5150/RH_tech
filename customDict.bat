@@ -1,0 +1,1 @@
+echo F | xcopy /F /Y C:\rh-setup\CustomDictionary.txt "C:\Users\%USERNAME%\AppData\Local\Google\Chrome\User Data\Default\Custom Dictionary.txt"
